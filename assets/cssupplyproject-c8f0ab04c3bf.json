@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cssupplyproject",
+  "private_key_id": "c8f0ab04c3bfb341d2bd577ddee07841f93e60fa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC7CYf+51HN+Zgi\npqusKNd+81mB18r4rMny7CftbNjO5fmE4gki451Av5r9zAnpQxNzTUHjnf6Qj+7Y\nKgvnHIvguJHhjAnblRimmCLhCvH1ik0NrIcBijQwfn8vJe18pYjLfs7rViOOZDog\nTBFaSfqFyB04yu2Hqgoi181SOV0P6XaQIz7NoM1PBdK8F5eZlvifZT5uDMrxdjZu\nAjM1HGPaDb2aPSUxhYaJY8evkjmpV2DOE5SiwpIQqr96ubb9cZf8LcDm9zOOnagg\n268MhUgN8aNiAdQqQKQtqemShe1ZlGO1eDBsCEwctDwXJLiRhea9p+JTzqT1z/eQ\ntYs2sK6tAgMBAAECggEABjhZbPk9Z7eyvwhC8k1DaWXnZqGKDv4UEz+WTleN2Eee\npjQsMJxYOPSGT4VvGPJRncaGd+7jreQTgd3YGn4BCt6of1M8arCJKtUpZ8mI5W0N\nhfRkYwE5Hhm+2g8NWFVa+MWFVR8+vHgJ1NQiyZlnOva+PgrFnnrhrmn12pOszCAd\nZ+cDZjrBBrsGAP2p5R4Gbh3WV5SM28prXmBih3fULxEbnK41mHhkyCcz4AfIMci9\nZ8N3ofNfiv4HXEMUvmq1t6/cSKPH8eDs5vvucfwSmI+JTAA2UBc3xN1NYN1rT7m+\nJs9/7X7AAboD/LpAZeGNOauNL+pE0TXrhU4T7zZtUwKBgQDsSNojyNlt8WeCaZy7\n9SaastN/X4sQm1Fs0KecBX6eLwqsQLmIUUFHg1SAB2cdlSogZjlXjffQkmgV3INS\n67W8SbxMweHmSO+jXYh6FjFJbqlSaeJ3XDSsSVZh89CD5mH7nndqgGbCVZ3kAm/a\nT0Bd+HKynFgLF6vdxwNCGeNz+wKBgQDKpLumh8kLrbgRevu5E59YNfMBqkTVQMra\nyZsWDty2PAnb/WOhur1u8OtGkomjFtPI80pOTGhiqVvu8WE0JYftCMQHuyDcjWc3\nkwKyl/LJ3ipwnq1VIm/TABjFrUwXCT5Ix++YpBQAPKkGLxtG5gOgtKwhJ+A6M1Q7\nPK0l5lE/dwKBgQDoMUc8NxmDsuB3BXXiNqxzBRxVZPxxm0/O0NSEu9mLdMrWLtyj\nmsW9ks8s6RlptrWpFQtwgLBwJA9ovEPI7pyupP8Hptdox2/GaBm/b6OLd9WoiSjl\nBpU0YPUkWMYld/X9n+HVpMxWWHBKKiLks1Cbh5Se9IiIjgB0dic7g9lClQKBgQCq\nx6pd7pHBBeba1IrQr3jbHpxuCtF35+MOAFpzfJMGAhNNE3+kDX0YwnGGSHk2uUZD\nVMaKtlpCy/hup38EM50aZwjOeyZ2ubUDYSIk4Wn8NwANaa0q0prreGloL2SxBVk4\nfUevnJg+muDYFVsnpTHpflqSlsiiRB/4zGogRrqygQKBgQDh6pAB2Jt5lrDBRxrL\nZmXUnook8BqvGvmdtVW0DwphFPV+DeANqb+gYqkeyGo+PtBobtaX55QMLpcr2phh\nIo51LZWyeuNC7EWsYUyEuZ5VceWUDQ25GpXVuDqgBgYo2vU8Qwe8tWZldx7B2bEm\nJZCZKFLW1OvMY4X/mmjeFPhl9w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cssprojectservice@cssupplyproject.iam.gserviceaccount.com",
+  "client_id": "114333721230690191593",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cssprojectservice%40cssupplyproject.iam.gserviceaccount.com"
+}
